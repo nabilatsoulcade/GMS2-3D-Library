@@ -98,7 +98,7 @@
             "Key": "25373546-a821-459d-8936-a3b8a0281a5a",
             "Value": {
                 "id": "fc92d2dd-ed55-47b0-968e-c22503637f65",
-                "resourcePath": "objects\\obj_fence\\obj_fence.yy",
+                "resourcePath": "objects\\obj_cube\\obj_cube.yy",
                 "resourceType": "GMObject"
             }
         },

@@ -2,7 +2,7 @@
     "id": "25373546-a821-459d-8936-a3b8a0281a5a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_fence",
+    "name": "obj_cube",
     "eventList": [
         {
             "id": "825f9d44-b1c0-4d88-b5ef-874acd3add44",
