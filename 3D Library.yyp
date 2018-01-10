@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0569bd41-31cf-427e-b922-becba58343fc",
+            "Value": {
+                "id": "6a0335f6-e684-4b8a-a127-d56b21025ff6",
+                "resourcePath": "scripts\\vertex_buffer_create_from_obj\\vertex_buffer_create_from_obj.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "14a2b438-3028-4337-a65e-124a49d95792",
             "Value": {
                 "id": "82251fd9-7042-4390-9a5b-059b538b01a6",
@@ -67,6 +75,14 @@
             "Value": {
                 "id": "fdcca14c-b788-4acb-9843-eaeab04efcd4",
                 "resourcePath": "scripts\\vertex_buffer_create_quadrilateral_pos_color\\vertex_buffer_create_quadrilateral_pos_color.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1b5f6a82-d3ae-4d17-80eb-9013b275ca46",
+            "Value": {
+                "id": "412aad5f-a556-4180-afea-4868715e4f76",
+                "resourcePath": "scripts\\vertex_buffer_add_quadrilateral_pos\\vertex_buffer_add_quadrilateral_pos.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -111,6 +127,14 @@
             }
         },
         {
+            "Key": "30c2d90b-5c15-42a1-b9ae-24fe4564746c",
+            "Value": {
+                "id": "9b22760f-a4b8-497a-b5d3-00c793291e42",
+                "resourcePath": "scripts\\vertex_buffer_finish_assembly\\vertex_buffer_finish_assembly.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "3d22a901-1fd1-4284-b3e3-cbff5e2ebf9a",
             "Value": {
                 "id": "b979d1af-af15-4e8d-a678-d86b1cfd3219",
@@ -135,11 +159,27 @@
             }
         },
         {
+            "Key": "43074ece-40c5-458f-b2a8-17953ce1664c",
+            "Value": {
+                "id": "2d49bc60-b990-4681-954b-8a4f8a54fc86",
+                "resourcePath": "views\\43074ece-40c5-458f-b2a8-17953ce1664c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "47594191-df81-4ea5-bf79-79b65a3480f5",
             "Value": {
                 "id": "b3695e84-1ed3-46c9-b753-60249884466c",
                 "resourcePath": "views\\47594191-df81-4ea5-bf79-79b65a3480f5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "47d4dd1c-b507-4c1f-8008-e12a15fc60d1",
+            "Value": {
+                "id": "416b2f2b-776d-436d-bd17-2bf5fd425443",
+                "resourcePath": "scripts\\vertex_buffer_add_vertex\\vertex_buffer_add_vertex.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -207,6 +247,14 @@
             }
         },
         {
+            "Key": "6e3fdaf6-608d-4029-93a5-3aa051607283",
+            "Value": {
+                "id": "5a2fd219-8235-4631-87f6-c61f0ced6c07",
+                "resourcePath": "sprites\\spr_minecraft_grass_block_side\\spr_minecraft_grass_block_side.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "70e3a989-f618-4fd1-8fcf-ec857311bb0b",
             "Value": {
                 "id": "0012adc4-ed41-42e3-9a25-4ee48b718f72",
@@ -223,6 +271,14 @@
             }
         },
         {
+            "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
+            "Value": {
+                "id": "a2728cab-74c6-4ffa-9307-a16e0eb7b5f3",
+                "resourcePath": "options\\html5\\options_html5.yy",
+                "resourceType": "GMHtml5Options"
+            }
+        },
+        {
             "Key": "789d9c24-3872-48f2-8712-607d6d0d30a9",
             "Value": {
                 "id": "5528cfe4-0eb7-45aa-84b7-fc1ecf005d06",
@@ -236,6 +292,14 @@
                 "id": "9f03e2f8-fdae-4ce8-8919-51c50d1cc079",
                 "resourcePath": "views\\7b7e893d-ac35-4f83-9748-60d665d56327.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7bfa497a-4715-4e83-8ca9-a69df2e67c10",
+            "Value": {
+                "id": "3cd3853a-5a4e-431d-925d-990c4bab54f6",
+                "resourcePath": "scripts\\vertex_buffer_add_quadrilateral_fixed\\vertex_buffer_add_quadrilateral_fixed.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -263,11 +327,27 @@
             }
         },
         {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "973f10ab-04ec-426a-b1c9-cb297761e950",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
+            }
+        },
+        {
             "Key": "88571f34-fb6d-4498-9d1d-351ab12d6d5a",
             "Value": {
                 "id": "59ff9f47-d73d-4847-b1ca-0fa4bab55d8d",
                 "resourcePath": "views\\88571f34-fb6d-4498-9d1d-351ab12d6d5a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8c0153d2-666f-44d8-b3d2-998b03aa70a5",
+            "Value": {
+                "id": "fa8bba7b-e596-4c34-97ba-2ed0051919ba",
+                "resourcePath": "scripts\\vertex_buffer_begin_assembly\\vertex_buffer_begin_assembly.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -316,6 +396,14 @@
                 "id": "753eab5b-fb2e-49d2-beac-d9b029e33310",
                 "resourcePath": "scripts\\camera_update_4\\camera_update_4.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
+            "Value": {
+                "id": "f83bb16e-d6be-4878-b958-fe90c9feec59",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
             }
         },
         {
@@ -415,6 +503,14 @@
             }
         },
         {
+            "Key": "d4869b19-c992-4d2e-b24c-c2c23c7edd47",
+            "Value": {
+                "id": "eefc1871-ddeb-43d4-ba34-3dc86d4df33c",
+                "resourcePath": "sprites\\tile_grass\\tile_grass.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d78f12e5-0ea7-47a0-b3ba-049398f6c466",
             "Value": {
                 "id": "90af7b8e-b3ce-458d-ae73-b1a0e76cf1e8",
@@ -431,6 +527,22 @@
             }
         },
         {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "70690a0d-cb39-46b0-83d9-7be5b72da6b5",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "eeccb334-1bde-451d-b198-dadb5d65f152",
+            "Value": {
+                "id": "c2144266-ddee-4c96-bf14-c905b9b67b4f",
+                "resourcePath": "sprites\\spr_minecraft_grass_block_top\\spr_minecraft_grass_block_top.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "efbc61f8-068b-493e-bf0a-7e9fc742f834",
             "Value": {
                 "id": "213632fa-b04f-46e5-97ef-eb426583d1ba",
@@ -444,6 +556,14 @@
                 "id": "cf80b4c3-fbac-4747-bc3f-f49b70b78477",
                 "resourcePath": "views\\f39e4e9b-6a64-475d-a789-a5b29f9558a4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f3af752c-73a8-4ac3-bb92-f3292219fe07",
+            "Value": {
+                "id": "6e199970-ef8f-4842-9559-b5e2383ff4eb",
+                "resourcePath": "scripts\\vertex_buffer_add_triangle\\vertex_buffer_add_triangle.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -485,13 +605,20 @@
         "b7fe077d-53f9-4d57-b0b4-dc19dd7b0226",
         "62b8a2ee-ac04-4521-975e-6b70a2b599a1",
         "8310d1ae-ed60-4622-8add-ddbaac09a61e",
+        "8c0153d2-666f-44d8-b3d2-998b03aa70a5",
+        "1b5f6a82-d3ae-4d17-80eb-9013b275ca46",
+        "7bfa497a-4715-4e83-8ca9-a69df2e67c10",
+        "47d4dd1c-b507-4c1f-8008-e12a15fc60d1",
+        "f3af752c-73a8-4ac3-bb92-f3292219fe07",
+        "30c2d90b-5c15-42a1-b9ae-24fe4564746c",
         "a86474b7-460a-457b-8b96-8e0c58c1146c",
         "efbc61f8-068b-493e-bf0a-7e9fc742f834",
         "187c32de-3028-4432-8a3b-42323606d9d0",
         "3f2d9501-6cbd-417d-80cc-d6fbd9b06885",
         "23695fb1-542d-49a8-a982-4d9a5da9cf2e",
         "4066ba7c-add8-4ab5-b4ab-019c3434d76b",
-        "3d22a901-1fd1-4284-b3e3-cbff5e2ebf9a"
+        "3d22a901-1fd1-4284-b3e3-cbff5e2ebf9a",
+        "0569bd41-31cf-427e-b922-becba58343fc"
     ],
     "tutorial": ""
 }

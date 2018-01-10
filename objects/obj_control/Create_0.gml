@@ -1,6 +1,6 @@
 /// @description Insert description here
 //Initialize 3D
-render_3d_init();
+render_3d_init_ext(true,true,cull_noculling);
 
 //Setup Camera Variables
 camera_variables_init();

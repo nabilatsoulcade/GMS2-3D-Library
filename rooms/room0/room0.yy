@@ -112,21 +112,13 @@
             "prev_tilewidth": 256,
             "tiles": {
                 "SerialiseData": null,
-                "SerialiseHeight": 3,
-                "SerialiseWidth": 4,
+                "SerialiseHeight": 2,
+                "SerialiseWidth": 2,
                 "TileSerialiseData": [
                     1,
                     1,
                     1,
-                    2147483648,
-                    1,
-                    1,
-                    1,
-                    2147483648,
-                    2147483648,
-                    2147483648,
-                    2147483648,
-                    2147483648
+                    1
                 ]
             },
             "tilesetId": "d78f12e5-0ea7-47a0-b3ba-049398f6c466",

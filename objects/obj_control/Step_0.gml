@@ -19,6 +19,6 @@ axis_4 = key_w + key_s;
 
 // Control Camera Variables
 camera_angle[0] += axis_1;
-camera_x_distance[0] += axis_2;
-camera_y_distance[0] += axis_3;
-camera_z_distance[0] += axis_4;
+camera_x_distance[0] += axis_2*7;
+camera_y_distance[0] += axis_3*7;
+camera_z_distance[0] += axis_4*7;
