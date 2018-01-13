@@ -47,14 +47,6 @@
             }
         },
         {
-            "Key": "0569bd41-31cf-427e-b922-becba58343fc",
-            "Value": {
-                "id": "6a0335f6-e684-4b8a-a127-d56b21025ff6",
-                "resourcePath": "scripts\\vertex_buffer_create_from_obj\\vertex_buffer_create_from_obj.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "14a2b438-3028-4337-a65e-124a49d95792",
             "Value": {
                 "id": "82251fd9-7042-4390-9a5b-059b538b01a6",
@@ -617,8 +609,7 @@
         "3f2d9501-6cbd-417d-80cc-d6fbd9b06885",
         "23695fb1-542d-49a8-a982-4d9a5da9cf2e",
         "4066ba7c-add8-4ab5-b4ab-019c3434d76b",
-        "3d22a901-1fd1-4284-b3e3-cbff5e2ebf9a",
-        "0569bd41-31cf-427e-b922-becba58343fc"
+        "3d22a901-1fd1-4284-b3e3-cbff5e2ebf9a"
     ],
     "tutorial": ""
 }

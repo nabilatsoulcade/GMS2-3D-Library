@@ -1,5 +1,5 @@
 /// @description Draws a 3D Vertex with more control
-/// @param bufer_index
+/// @param buffer_index
 /// @param texture_index
 /// @param x
 /// @param y
@@ -22,7 +22,7 @@ var z_angle = argument7;
 var x_scale = argument8;
 var y_scale = argument9;
 var z_scale = argument10;
-var mat = matrix_build(xx,yy,zz, image_angle, 0, 0, image_xscale, image_yscale, 1);
+var mat = matrix_build(xx,yy,zz, x_angle, y_angle, z_angle, x_scale, y_scale, z_scale);
 
 //The world matrix is what is used to transform drawing within "world" or "object" space.
 matrix_set(matrix_world, mat);

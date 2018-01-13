@@ -12,7 +12,7 @@ var xx = argument2;
 var yy = argument3;
 var zz = argument4;
 
-var mat = matrix_build(xx,yy,zz, image_angle, 0, 0, image_xscale, image_yscale, 1);
+var mat = matrix_build(xx,yy,zz, 0, 0, 0, 1, 1, 1);
 
 //The world matrix is what is used to transform drawing within "world" or "object" space.
 matrix_set(matrix_world, mat);
