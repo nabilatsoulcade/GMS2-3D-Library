@@ -22,3 +22,7 @@ vertex_submit(vertex_buffer, pr_trianglelist, vertex_texture);
 
 //Resetting transforms can be done like this:
 matrix_set(matrix_world, matrix_build_identity());
+
+//Setting Alpha Testing
+gpu_set_alphatestenable(true);
+gpu_set_alphatestref(alphatest);

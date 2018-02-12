@@ -6,6 +6,7 @@
 var zwrite = argument0;
 var ztest = argument1;
 var cullmode = argument2;
+var alphatest = argument3;
 
 //Enables writing to the z-buffer (boolean)
 gpu_set_zwriteenable(zwrite);
@@ -22,3 +23,6 @@ cull_clockwise
 cull_counterclockwise
 */
 gpu_set_cullmode(cullmode);
+
+gpu_set_alphatestenable(true);
+gpu_set_alphatestref(alphatest);
