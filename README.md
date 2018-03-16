@@ -1,4 +1,4 @@
-# 3D.yyc
+# Game Maker Studio 2 3D Library
 A library for making 3D more accesible in Gamemaker Studio 2
 
 This asset provides you with a simpler code-base for setting up 3D in Game Maker Studio 2. It includes a well commented example that allows
