@@ -18,7 +18,7 @@ vbuff_grass_blade_cluster = vertex_buffer_finish_assembly(vbuff_grass_blade_clus
 
 //Grass Floor
 vbuff_grass_blade_cluster_large = vertex_buffer_begin_assembly()
-var rotations = 60
+var rotations = 15;
 for(var xx = 0; xx < room_width; xx += 720)
 	{
 	for(var yy = 0; yy < room_height; yy += 720)

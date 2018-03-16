@@ -32,5 +32,3 @@ render_distance = room_width * 0.3;
 scr_model_creator();
 
 show_debug_overlay(true);
-game_time = 0;
-game_day = 1;
