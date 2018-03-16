@@ -35,7 +35,7 @@ vertex_buffer_create_quadrilateral_fixed(x1,y1,z1,x2,y2,z2);
 
 ## Built With
 
-* [Gamemaker Studio 2](http://www.dropwizard.io/1.0.2/docs/) - IDE
+* [Gamemaker Studio 2](https://www.yoyogames.com) - IDE
 
 ## Authors
 
